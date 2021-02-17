@@ -1,3 +1,5 @@
 This is the folder for my and Sean's project.
 
 Sean wrote this.
+
+Joe wrote this.
